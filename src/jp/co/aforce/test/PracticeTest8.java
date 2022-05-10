@@ -1,7 +1,7 @@
 package jp.co.aforce.test;
 
 public class PracticeTest8 {
-                                                                                                                                                                                                                                                                            
+
 	//練習問題１
 	public void printHello() {
 		System.out.println("Hello");

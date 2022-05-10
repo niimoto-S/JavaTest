@@ -2,6 +2,7 @@ package jp.co.aforce.test;
 
 public class MinMax {
 
+	//練習問題1
 	private int num;
 
 	public int getMinValue(int a,int b, int c) {
